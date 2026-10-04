@@ -156,6 +156,8 @@
 
 ### Illustration Anny 1 (Stockings)
 
+This set intentionally matches the standard views; both use the same white stockings.
+
 | Front | Right | Back | Left |
 |:---:|:---:|:---:|:---:|
 | [![Front](Illustration_Anny_1%20%28Stockings%29/front.png)](Illustration_Anny_1%20%28Stockings%29/front.png) | [![Right](Illustration_Anny_1%20%28Stockings%29/right.png)](Illustration_Anny_1%20%28Stockings%29/right.png) | [![Back](Illustration_Anny_1%20%28Stockings%29/back.png)](Illustration_Anny_1%20%28Stockings%29/back.png) | [![Left](Illustration_Anny_1%20%28Stockings%29/left.png)](Illustration_Anny_1%20%28Stockings%29/left.png) |
