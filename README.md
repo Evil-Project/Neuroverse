@@ -192,11 +192,15 @@ This set intentionally matches the standard views; both use the same white stock
 |:---:|:---:|:---:|:---:|
 | [![Front](Illustration_Evil_Cyber_Knight/front.png)](Illustration_Evil_Cyber_Knight/front.png) | [![Right](Illustration_Evil_Cyber_Knight/right.png)](Illustration_Evil_Cyber_Knight/right.png) | [![Back](Illustration_Evil_Cyber_Knight/back.png)](Illustration_Evil_Cyber_Knight/back.png) | [![Left](Illustration_Evil_Cyber_Knight/left.png)](Illustration_Evil_Cyber_Knight/left.png) |
 
+Earlier right views: [original](Illustration_Evil_Cyber_Knight/revisions/right-v1.png) · [first correction](Illustration_Evil_Cyber_Knight/revisions/right-v2.png) · [before crop correction](Illustration_Evil_Cyber_Knight/revisions/right-v3.png).
+
 ### Illustration Evil Cyber Knight (Stockings)
 
 | Front | Right | Back | Left |
 |:---:|:---:|:---:|:---:|
 | [![Front](Illustration_Evil_Cyber_Knight%20%28Stockings%29/front.png)](Illustration_Evil_Cyber_Knight%20%28Stockings%29/front.png) | [![Right](Illustration_Evil_Cyber_Knight%20%28Stockings%29/right.png)](Illustration_Evil_Cyber_Knight%20%28Stockings%29/right.png) | [![Back](Illustration_Evil_Cyber_Knight%20%28Stockings%29/back.png)](Illustration_Evil_Cyber_Knight%20%28Stockings%29/back.png) | [![Left](Illustration_Evil_Cyber_Knight%20%28Stockings%29/left.png)](Illustration_Evil_Cyber_Knight%20%28Stockings%29/left.png) |
+
+Earlier Stockings views: [front original](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/front-v1.png) · [front before crop correction](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/front-v2.png) · [right original](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/right-v1.png) · [right first correction](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/right-v2.png) · [right before crop correction](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/right-v3.png) · [back original](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/back-v1.png) · [left original](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/left-v1.png) · [left first correction](Illustration_Evil_Cyber_Knight%20%28Stockings%29/revisions/left-v2.png).
 
 ### Illustration Evil v2 04
 
